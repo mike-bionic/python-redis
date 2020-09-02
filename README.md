@@ -50,6 +50,7 @@ b'san'
 ## Datatype issues
 
 + [Data types in Redis](/redis_data_types.md)
++ [Hackersabdsackers: Redis data types](https://github.com/hackersandslackers/redis-python-tutorial)
 
 Python's datetime format can't be accepted by redis, to avoid this issue do:
 ```python
